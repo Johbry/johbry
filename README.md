@@ -66,6 +66,7 @@ Introduction to testing, understanding test cases and scenarios, manual testing 
   <span></span>
 </a>
 
+
 ## Interests 🌟
 
 I enjoy video games, automating tasks, listening to music, dancing, watching movies, and reading.
