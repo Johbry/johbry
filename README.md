@@ -1,4 +1,12 @@
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Johbry/Johbry?label=Views&logoColor=%23CF1680%20&style=social">  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Johbry?logoColor=%23CF1680%20&style=social">
+<div>
+<a href="https://github.com/Johbry">
+    <img src="https://img.shields.io/github/watchers/Johbry/Johbry?label=Views&logoColor=%23CF1680&style=social" alt="GitHub watchers">
+  </a>
+  <a href="https://github.com/Johbry">
+    <img src="https://img.shields.io/github/followers/Johbry?logoColor=%23CF1680&style=social" alt="GitHub followers">
+  </a>
+  </div>
+  
 ## About Me ✨
 
 I'm a collaborative, communicative individual who enjoys sharing my knowledge and skills. I'm not afraid to admit and confront mistakes, and when faced with unknowns or challenges, I proactively seek solutions and learn quickly. My goal is to expand my technical testing knowledge and grow professionally in this field.
