@@ -1,6 +1,6 @@
 <div>
 <a href="https://github.com/Johbry">
-    <img src="https://img.shields.io/github/watchers/Johbry/Johbry?label=Views&logoColor=%23CF1680&style=social" alt="GitHub watchers">
+    <img src="https://img.shields.io/github/watchers/Johbry/johbry?label=Views&logoColor=%23CF1680&style=social" alt="GitHub watchers">
   </a>
   <a href="https://github.com/Johbry">
     <img src="https://img.shields.io/github/followers/Johbry?logoColor=%23CF1680&style=social" alt="GitHub followers">
