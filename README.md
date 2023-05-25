@@ -61,8 +61,8 @@ Introduction to testing, understanding test cases and scenarios, manual testing 
 
 ## Contact Information 📞
 
-<a href="https://www.linkedin.com/in/johbry-mellado/" target="_blank">
-  <img src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin-500x313.png" width="70px" height="50px">
+<a href="https://www.linkedin.com/in/johbry-mellado/" onclick="window.open('https://www.linkedin.com/in/johbry-mellado/', '_blank'); return false;">
+  <img src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin-500x313.png" width="70px" height="50px" alt="LinkedIn">
   <span></span>
 </a>
 
